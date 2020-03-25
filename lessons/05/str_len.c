@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* strlen() */
+
 int str_len(const char *str)
 {
     int i = 0;
